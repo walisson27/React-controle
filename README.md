@@ -19,8 +19,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - ReactJs
 - Styled-components
-- Axios 
-- Utilizando Api [PokéAPI](https://pokeapi.co/)
 
 <br>
 
